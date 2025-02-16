@@ -1,8 +1,28 @@
-# React + Vite
+# To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple To-Do List application built using **React.js** with **Vite**. The app allows users to add, edit, delete, and mark tasks as completed. It is styled with **Tailwind CSS** for a clean and responsive UI.
 
-Currently, two official plugins are available:
+## Features
+- ✅ Add new tasks
+- ✅ Edit existing tasks
+- ✅ Mark tasks as completed
+- ✅ Delete tasks
+- ✅ Responsive and user-friendly design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation & Setup
+
+Make sure you have **Node.js** and **npm** installed.
+
+### Steps to run the project:
+- git clone   "repository-url" **to clone the code** 
+-  cd todo-app-react
+-  npm install
+-  npm install -D tailwindcss postcss autoprefixer  **to load the tailwind Css** 
+-  npx tailwindcss init -p
+-  npm run dev
+
+  ## Technologies Used
+React.js,
+Vite,
+Tailwind CSS
+
