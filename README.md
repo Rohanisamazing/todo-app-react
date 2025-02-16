@@ -20,6 +20,8 @@ Make sure you have **Node.js** and **npm** installed.
 -  npm install -D tailwindcss postcss autoprefixer  **to load the tailwind Css** 
 -  npx tailwindcss init -p
 -  npm run dev
+  ### After opening the project you can Add, Edit, Delete
+  ### Click on the text for marked as task completed.
 
   ## Technologies Used
 React.js,
