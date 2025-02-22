@@ -5,8 +5,8 @@ This is a simple To-Do List application built using **React.js** with **Vite**. 
 ## Features
 - ✅ Add new tasks
 - ✅ Edit existing tasks
-- ✅ Mark tasks as completed
-- ✅ Delete tasks  (When Clicked On Text)
+- ✅ Mark tasks as completed  **(When Clicked On Text)**
+- ✅ Delete tasks  
 - ✅ Responsive and user-friendly design
 
 ## Installation & Setup
